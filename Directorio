@@ -1,0 +1,168 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-id="Canal11TuTV.sv" tvg-logo="https://i.imgur.com/itqQEux.png" group-title="Tv Nacional",Canal 11 TuTV
+https://stream.giostreaming.net:19360/canal11/canal11.m3u8
+ 
+#EXTINF:-1 tvg-id="Canal12.sv" tvg-logo="https://i.imgur.com/UGDbp3O.png" group-title="Tv Nacional",Canal 12
+https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
+ 
+#EXTINF:-1 tvg-id="Canal2.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Canal_2_TCS.png/512px-Canal_2_TCS.png" group-title="Tv Nacional",Canal 2
+https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="Tv Nacional",Canal 3 Impresionante
+https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="Canal4.sv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Canal_4_TCS.png/512px-Canal_4_TCS.png" group-title="Tv Nacional",Canal 4
+https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c619247d/live.isml/live.m3u8
+ 
+#EXTINF:-1 tvg-id="Canal6.sv" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="Tv Nacional",Canal 6
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+ 
+#EXTINF:-1 tvg-id="LegislativeAssemblyofElSalvador.sv" tvg-logo="https://i.imgur.com/OBuiCyb.png" group-title="Tv Nacional",Asamblea Legislativa de El Salvador
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+ 
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv" tvg-logo="https://i.imgur.com/voyVP6X.png" group-title="Tv Nacional",Megavision Canal 19
+https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
+ 
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="Tv Nacional",Megavision Canal 21
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+ 
+#EXTINF:-1 tvg-id="OrbitaTV.sv" tvg-logo="https://i.imgur.com/tFqDOpV.png" group-title="Tv Nacional",Orbita TV
+https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="TCSPlus.sv" tvg-logo="https://i.imgur.com/iYFWG06.png" group-title="Tv Nacional",TCS+
+https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c56a/live.isml/live.m3u8
+ 
+#EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="Tv Nacional",WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+ 
+#EXTINF:-1 tvg-id="directvsports" tvg-logo="https://img.teleclub.xyz/directvsports.png" group-title="Deportes", Directv Sports
+http://tv.teleclub.xyz/stream/server_2/deportes/directvsports/master.m3u8
+
+#EXTINF:-1 tvg-id="directvsportsplus" tvg-logo="https://img.teleclub.xyz/directvsports.png" group-title="Deportes", Directv Sports +
+http://tv.teleclub.xyz/stream/server_2/deportes/directvsportsplus/master.m3u8
+
+#EXTINF:-1 tvg-id="directvsports2" tvg-logo="https://img.teleclub.xyz/directvsports2.png" group-title="Deportes", Directv Sports 2
+http://tv.teleclub.xyz/stream/server_2/deportes/directvsports2/master.m3u8
+
+#EXTINF:-1 tvg-id="espn1" tvg-logo="https://img.teleclub.xyz/espn.png" group-title="Deportes", ESPN 1
+http://tv.teleclub.xyz/stream/server_2/deportes/espn1/master.m3u8
+
+#EXTINF:-1 tvg-id="espn2" tvg-logo="https://img.teleclub.xyz/espn2.png" group-title="Deportes", ESPN 2
+http://tv.teleclub.xyz/stream/server_2/deportes/espn2/master.m3u8
+
+#EXTINF:-1 tvg-id="espn3" tvg-logo="https://img.teleclub.xyz/espn3.png" group-title="Deportes", ESPN 3
+http://tv.teleclub.xyz/stream/server_2/deportes/espn3/master.m3u8
+
+#EXTINF:-1 tvg-id="espn4" tvg-logo="https://img.teleclub.xyz/espn4.png" group-title="Deportes", ESPN 4
+http://tv.teleclub.xyz/stream/server_2/deportes/espn4/master.m3u8
+
+#EXTINF:-1 tvg-id="espn5" tvg-logo="https://img.teleclub.xyz/espn.png" group-title="Deportes", ESPN 5
+http://tv.teleclub.xyz/stream/server_2/deportes/espn5/master.m3u8
+
+#EXTINF:-1 tvg-id="espnpremium" tvg-logo="https://img.teleclub.xyz/espnpremium.png" group-title="Deportes", ESPN Premium
+http://tv.teleclub.xyz/stream/server_2/deportes/espnpremium/master.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-logo="http://img.teleclub.xyz/cartoonnetwork.png" group-title="Infantil", Cartoon Network
+http://tv.teleclub.xyz/stream/server_3/infantil/cartoonnetwork/master.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-logo="http://img.teleclub.xyz/cartoonnetwork.png" group-title="Infantil", Cartoon Network
+http://tv.teleclub.xyz/stream/server_1/infantil/cartoonnetwork/master.m3u8
+
+#EXTINF:-1 tvg-id="cartoonito" tvg-logo="http://img.teleclub.xyz/cartoonito.png" group-title="Infantil", Cartoonito
+http://tv.teleclub.xyz/stream/server_1/infantil/cartoonito/master.m3u8
+
+#EXTINF:-1 tvg-id="discoverykids" tvg-logo="http://img.teleclub.xyz/discoverykids.png" group-title="Infantil", Discovery Kids
+http://tv.teleclub.xyz/stream/server_1/infantil/discoverykids/master.m3u8
+
+#EXTINF:-1 tvg-id="disney_channel" tvg-logo="http://img.teleclub.xyz/disneychannel.png" group-title="Infantil", Disney Channel
+http://tv.teleclub.xyz/stream/server_1/infantil/disney_channel/master.m3u8
+
+#EXTINF:-1 tvg-id="disney_jr" tvg-logo="http://img.teleclub.xyz/disneyjr.png" group-title="Infantil", Disney Jr
+http://tv.teleclub.xyz/stream/server_1/infantil/disney_jr/master.m3u8
+
+#EXTINF:-1 tvg-id="nick" tvg-logo="http://img.teleclub.xyz/nick.png" group-title="Infantil", Nick
+http://tv.teleclub.xyz/stream/server_1/infantil/nick/master.m3u8
+
+#EXTINF:-1 tvg-id="tooncast" tvg-logo="http://img.teleclub.xyz/tooncast.png" group-title="Infantil", Tooncast
+http://tv.teleclub.xyz/stream/server_1/infantil/tooncast/master.m3u8
+
+#EXTINF:-1 tvg-id="animalplanet" tvg-logo="https://img.teleclub.xyz/animalplanet.png" group-title="Cultura", Animal Planet
+http://tv.teleclub.xyz/stream/server_1/cultura/animalplanet/master.m3u8
+#EXTINF:-1 tvg-id="discoverychannel" tvg-logo="https://img.teleclub.xyz/discoverychannel.png" group-title="Cultura", Discovery Channel
+http://tv.teleclub.xyz/stream/server_1/cultura/discoverychannel/master.m3u8
+
+#EXTINF:-1 tvg-id="discoveryh_h" tvg-logo="https://img.teleclub.xyz/discoveryhh.png" group-title="Cultura", Discovery H&H
+http://tv.teleclub.xyz/stream/server_1/cultura/discoveryh_h/master.m3u8
+
+#EXTINF:-1 tvg-id="discoveryscience" tvg-logo="https://img.teleclub.xyz/discoverysci.png" group-title="Cultura", Discovery Science
+http://tv.teleclub.xyz/stream/server_1/cultura/discoveryscience/master.m3u8
+
+#EXTINF:-1 tvg-id="discoverytheater" tvg-logo="https://img.teleclub.xyz/discoverytheater.png" group-title="Cultura", Discovery Theater
+http://tv.teleclub.xyz/stream/server_1/cultura/discoverytheater/master.m3u8
+
+#EXTINF:-1 tvg-id="discoveryturbo" tvg-logo="https://img.teleclub.xyz/discoveryturbo.png" group-title="Cultura", Discovery Turbo
+http://tv.teleclub.xyz/stream/server_1/cultura/discoveryturbo/master.m3u8
+
+#EXTINF:-1 tvg-id="discoveryworld" tvg-logo="https://img.teleclub.xyz/discoveryworld.png" group-title="Cultura", Discovery World
+http://tv.teleclub.xyz/stream/server_1/cultura/discoveryworld/master.m3u8
+
+#EXTINF:-1 tvg-id="elgourmet" tvg-logo="https://img.teleclub.xyz/elgourmet.png" group-title="Cultura", El Gourmet
+http://tv.teleclub.xyz/stream/server_1/cultura/elgourmet/master.m3u8
+
+#EXTINF:-1 tvg-id="h2" tvg-logo="https://img.teleclub.xyz/h2.png" group-title="Cultura", H2
+http://tv.teleclub.xyz/stream/server_1/cultura/h2/master.m3u8
+
+#EXTINF:-1 tvg-id="history" tvg-logo="https://img.teleclub.xyz/history.png" group-title="Cultura", History
+http://tv.teleclub.xyz/stream/server_3/cultura/history/master.m3u8
+
+#EXTINF:-1 tvg-id="history" tvg-logo="https://img.teleclub.xyz/history.png" group-title="Cultura", History
+http://tv.teleclub.xyz/stream/server_1/cultura/history/master.m3u8
+
+#EXTINF:-1 tvg-id="discoveryid" tvg-logo="https://img.teleclub.xyz/did.png" group-title="Cultura", ID
+http://tv.teleclub.xyz/stream/server_1/cultura/discoveryid/master.m3u8
+
+#EXTINF:-1 tvg-id="nationalgeographic" tvg-logo="https://img.teleclub.xyz/natgeo.png" group-title="Cultura", National Geographic
+http://tv.teleclub.xyz/stream/server_1/cultura/nationalgeographic/master.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dcddfbdb7cf0e0009ae09ea" tvg-id="5dcddfbdb7cf0e0009ae09ea" tvg-chno="551" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Viajes
+http://clubtv.link/ab0804/phpcode/lista.php?c=5dcddfbdb7cf0e0009ae09ea&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dcde0657444a40009cd2422" tvg-id="5dcde0657444a40009cd2422" tvg-chno="554" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Cocina
+http://clubtv.link/ab0804/phpcode/lista.php?c=5dcde0657444a40009cd2422&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dcde07af1c85b0009b18651" tvg-id="5dcde07af1c85b0009b18651" tvg-chno="402" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Deportes
+http://clubtv.link/ab0804/phpcode/lista.php?c=5dcde07af1c85b0009b18651&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dcde17bf6591d0009839e02" tvg-id="5dcde17bf6591d0009839e02" tvg-chno="327" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Anime
+http://clubtv.link/ab0804/phpcode/lista.php?c=5dcde17bf6591d0009839e02&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dcde27ffae9520009c0c75a" tvg-id="5dcde27ffae9520009c0c75a" tvg-chno="301" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Investiga
+http://clubtv.link/ab0804/phpcode/lista.php?c=5dcde27ffae9520009c0c75a&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dcde2ac4bc6c500094ab45b" tvg-id="5dcde2ac4bc6c500094ab45b" tvg-chno="703" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Junior
+http://clubtv.link/ab0804/phpcode/lista.php?c=5dcde2ac4bc6c500094ab45b&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dcde2f53449c50009b2b4dc" tvg-id="5dcde2f53449c50009b2b4dc" tvg-chno="262" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Misterios
+http://clubtv.link/ab0804/phpcode/lista.php?c=5dcde2f53449c50009b2b4dc&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dd6ab8056beb000091fc6b6" tvg-id="5dd6ab8056beb000091fc6b6" tvg-chno="557" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Hogar
+http://clubtv.link/ab0804/phpcode/lista.php?c=5dd6ab8056beb000091fc6b6&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dd6dae8ce788b0009eaf77b" tvg-id="5dd6dae8ce788b0009eaf77b" tvg-chno="721" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png"  group-title="PLUTO TV", Pluto TV Kids
+http://clubtv.link/ab0804/phpcode/lista.php?c=5dd6dae8ce788b0009eaf77b&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dd834c66fe2ca0009303b8d" tvg-id="5dd834c66fe2ca0009303b8d" tvg-chno="273" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Animales
+http://clubtv.link/ab0804/phpcode/lista.php?c=5dd834c66fe2ca0009303b8d&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dd8364ea1d6780009929902" tvg-id="5dd8364ea1d6780009929902" tvg-chno="297" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Ciencia
+http://clubtv.link/ab0804/phpcode/lista.php?c=5dd8364ea1d6780009929902&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dd85eac039bba0009e86d1d" tvg-id="5dd85eac039bba0009e86d1d" tvg-chno="271" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Naturaleza
+http://clubtv.link/ab0804/phpcode/lista.php?c=5dd85eac039bba0009e86d1d&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ddc266f80e3550009136843" tvg-id="5ddc266f80e3550009136843" tvg-chno="279" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Aventura
+http://clubtv.link/ab0804/phpcode/lista.php?c=5ddc266f80e3550009136843&token=TecnotvGeneradorPlaylist&f=.m3u8
+
+#EXTINF:-1 channel-id="pluto-5de5758e1a30dc00094fcd6c" tvg-id="5de5758e1a30dc00094fcd6c" tvg-chno="286" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png"   group-title="PLUTO TV", Pluto TV Historia
+http://clubtv.link/ab0804/phpcode/lista.php?c=5de5758e1a30dc00094fcd6c&token=TecnotvGeneradorPlaylist&f=.m3u8
