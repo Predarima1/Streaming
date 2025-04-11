@@ -35,7 +35,13 @@ https://telecorporacion.cdn.vustreams.com/live/19b307cf-3f2d-44cb-bce6-0fd65365c
  
 #EXTINF:-1 tvg-id="WOWTV.sv" tvg-logo="https://i.imgur.com/yk46NxC.png" group-title="Tv Nacional",WOW TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
- 
+
+#EXTINF:-1 tvg-id="tycsports" tvg-logo="https://img.teleclub.xyz/tycsports.png" group-title="Deportes", TyC Sports
+http://tv.teleclub.xyz/stream/server_2/deportes/tycsports/master.m3u8
+
+#EXTINF:-1 tvg-id="winsportsplus" tvg-logo="https://img.teleclub.xyz/winsportsplus.png" group-title="Deportes", Win Sports Plus
+http://tv.teleclub.xyz/stream/server_2/deportes/winsportsplus/master.m3u8
+
 #EXTINF:-1 tvg-id="directvsports" tvg-logo="https://img.teleclub.xyz/directvsports.png" group-title="Deportes", Directv Sports
 http://tv.teleclub.xyz/stream/server_2/deportes/directvsports/master.m3u8
 
@@ -112,9 +118,6 @@ http://tv.teleclub.xyz/stream/server_1/cultura/elgourmet/master.m3u8
 http://tv.teleclub.xyz/stream/server_1/cultura/h2/master.m3u8
 
 #EXTINF:-1 tvg-id="history" tvg-logo="https://img.teleclub.xyz/history.png" group-title="Cultura", History
-http://tv.teleclub.xyz/stream/server_3/cultura/history/master.m3u8
-
-#EXTINF:-1 tvg-id="history" tvg-logo="https://img.teleclub.xyz/history.png" group-title="Cultura", History
 http://tv.teleclub.xyz/stream/server_1/cultura/history/master.m3u8
 
 #EXTINF:-1 tvg-id="discoveryid" tvg-logo="https://img.teleclub.xyz/did.png" group-title="Cultura", ID
@@ -123,80 +126,86 @@ http://tv.teleclub.xyz/stream/server_1/cultura/discoveryid/master.m3u8
 #EXTINF:-1 tvg-id="nationalgeographic" tvg-logo="https://img.teleclub.xyz/natgeo.png" group-title="Cultura", National Geographic
 http://tv.teleclub.xyz/stream/server_1/cultura/nationalgeographic/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Cuentos_de_Terramar-162148520-large.jpg" group-title="Peliculas",Cuentos de Terramar
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Cuentos%20de%20Terramar.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/El_castillo_en_el_cielo-382969111-large.jpg" group-title="Peliculas",El castillo en el cielo
-http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20castillo%20en%20el%20cielo.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/El_cuento_de_la_princesa_Kaguya-619798113-large.jpg" group-title="Peliculas",El cuento de la princesa Kaguya
-http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20cuento%20de%20la%20princesa%20Kaguya.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/El_incre_ble_castillo_vagabundo-661679030-large.jpg" group-title="Peliculas",El increible castillo vagabundo
-http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20increible%20castillo%20vagabundo.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/El_mundo_secreto_de_Arrietty-356171620-large.jpg" group-title="Peliculas",El mundo secreto de Arrietty
-http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20mundo%20secreto%20de%20Arrietty.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/El_recuerdo_de_Marnie-366882456-large.jpg" group-title="Peliculas",El recuerdo de Marnie
-http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20recuerdo%20de%20Marnie.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Haru_en_el_reino_de_los_gatos-963174131-large.jpg" group-title="Peliculas",El regreso del gato
-http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20regreso%20del%20gato.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/El_viaje_de_Chihiro-405533198-large.jpg" group-title="Peliculas",El viaje de Chihiro
-http://ia802200.us.archive.org/26/items/Peliculas-wii/El%20viaje%20de%20Chihiro.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Kiki_Entregas_a_domicilio-859043662-large.jpg" group-title="Peliculas",Kiki - Entregas a domicilio
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Kiki%20-%20Entregas%20a%20domicilio.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/La_colina_de_las_amapolas-708774988-large.jpg" group-title="Peliculas",La colina de las Amapolas
-http://ia802200.us.archive.org/26/items/Peliculas-wii/La%20colina%20de%20las%20Amapolas.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/La_tortuga_roja-279094121-large.jpg" group-title="Peliculas",La tortuga roja
-http://ia802200.us.archive.org/26/items/Peliculas-wii/La%20tortuga%20roja.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/La_tumba_de_las_luci_rnagas-976066027-large.jpg" group-title="Peliculas",La tumba de las Luciernagas
-http://ia802200.us.archive.org/26/items/Peliculas-wii/La%20tumba%20de%20las%20Luciernagas.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Mi_vecino_Totoro-520161596-large.jpg" group-title="Peliculas",Mi vecino Totoro
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Mi%20vecino%20Totoro.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Mis_vecinos_los_Yamada-102086202-large.jpg" group-title="Peliculas",Mis vecinos los Yamada
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Mis%20vecinos%20los%20Yamada.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Pompoko-586957064-large.jpg" group-title="Peliculas",Pompoko
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Pompoko.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Ponyo_en_el_acantilado-453187942-large.jpg" group-title="Peliculas",Ponyo en el acantilado
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Ponyo%20en%20el%20acantilado.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Porco_Rosso-732590592-large.jpg" group-title="Peliculas",Porco Rosso
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Porco%20Rosso.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Puedo_escuchar_el_mar_TV-208114751-large.jpg" group-title="Peliculas",Puedo oir el mar
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Puedo%20oir%20el%20mar.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Recuerdos_del_ayer-615376082-large.jpg" group-title="Peliculas",Recuerdos del Ayer
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Recuerdos%20del%20Ayer.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Se_levanta_el_viento-819618076-large.jpg" group-title="Peliculas",Se levanta el viento
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Se%20levanta%20el%20viento.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Susurros_del_coraz_n-911063934-large.jpg" group-title="Peliculas",Susurros del Corazon
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Susurros%20del%20Corazon.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Lilo-and-stitch.jpg" group-title="Peliculas",lilo y Stich
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Lilo%20y%20Stitch%201.mp4
- 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/telechancho/telechancho.github.io/refs/heads/gh-pages/covers/movies/Lilo_y_Stitch_2.jpg" group-title="Peliculas",Lilo y Stich 2
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Lilo%20y%20Stitch%202.mp4
- 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/doblaje/images/3/37/Granaventuralego.jpg/revision/latest?cb=20171107024947&path-prefix=es" group-title="Peliculas",La Gran Aventura Lego
-https://ia802200.us.archive.org/26/items/Peliculas-wii/La%20gran%20aventura%20Lego%201.mp4
- 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/suzume_no_tojimari-813023859-large.jpg" group-title="Peliculas",Suzume
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Suzume.mp4
- 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/wiki-doblaje-espana/images/6/65/Winnie_the_Pooh_2011_portada.png/revision/latest?cb=20221027172011&path-prefix=es" group-title="Peliculas",Winnie The Pooh
-http://ia802200.us.archive.org/26/items/Peliculas-wii/Winnie%20Pooh%20%282011%29.mp4
+#EXTINF:-1 tvg-id="a_e" tvg-logo="https://img.teleclub.xyz/ae.png" group-title="Entretenimiento", A&E
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/a_e/master.m3u8
+
+#EXTINF:-1 tvg-id="amc" tvg-logo="https://img.teleclub.xyz/amc.png" group-title="Entretenimiento", AMC
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/amc/master.m3u8
+
+#EXTINF:-1 tvg-id="antena3series" tvg-logo="https://img.teleclub.xyz/antena3.png" group-title="Entretenimiento", Antena 3 Series
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/antena3series/master.m3u8
+
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://img.teleclub.xyz/axn.png" group-title="Entretenimiento", AXN
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/axn/master.m3u8
+
+#EXTINF:-1 tvg-id="cinecanal" tvg-logo="https://img.teleclub.xyz/cinecanal.png" group-title="Entretenimiento", Cinecanal
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/cinecanal/master.m3u8
+
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://img.teleclub.xyz/cinemax.png" group-title="Entretenimiento", Cinemax
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/cinemax/master.m3u8
+
+#EXTINF:-1 tvg-id="comedycentral" tvg-logo="https://img.teleclub.xyz/comedycentral.png" group-title="Entretenimiento", Comedy Central
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/comedycentral/master.m3u8
+
+#EXTINF:-1 tvg-id="depelicula" tvg-logo="https://img.teleclub.xyz/depelicula.png" group-title="Entretenimiento", DePelicula
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/depelicula/master.m3u8
+
+#EXTINF:-1 tvg-id="dhe" tvg-logo="https://img.teleclub.xyz/dhe.png" group-title="Entretenimiento", DHE
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/dhe/master.m3u8
+
+#EXTINF:-1 tvg-id="distritocomedia" tvg-logo="https://img.teleclub.xyz/distritocomedia.png" group-title="Entretenimiento", Distrito Comedia
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/distritocomedia/master.m3u8
+
+#EXTINF:-1 tvg-id="fx" tvg-logo="https://img.teleclub.xyz/fx.png" group-title="Entretenimiento", FX
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/fx/master.m3u8
+
+#EXTINF:-1 tvg-id="golden" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/golden/master.m3u8
+
+#EXTINF:-1 tvg-id="goldenedge" tvg-logo="https://img.teleclub.xyz/goldenedge.png" group-title="Entretenimiento", Golden Edge
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenedge/master.m3u8
+
+#EXTINF:-1 tvg-id="goldenplus" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden Plus
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenplus/master.m3u8
+
+#EXTINF:-1 tvg-id="goldenpremier" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden Premier
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenpremier/master.m3u8
+
+#EXTINF:-1 tvg-id="goldenpremier2" tvg-logo="https://img.teleclub.xyz/golden.png" group-title="Entretenimiento", Golden Premier 2
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/goldenpremier2/master.m3u8
+
+#EXTINF:-1 tvg-id="multipremier" tvg-logo="https://img.teleclub.xyz/multipremier.png" group-title="Entretenimiento", Multipremier
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/multipremier/master.m3u8
+
+#EXTINF:-1 tvg-id="paramountnetwork" tvg-logo="https://img.teleclub.xyz/paramount.png" group-title="Entretenimiento", Paramount Network
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/paramountnetwork/master.m3u8
+
+#EXTINF:-1 tvg-id="sony" tvg-logo="https://img.teleclub.xyz/sony.png" group-title="Entretenimiento", Sony
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/sony/master.m3u8
+
+#EXTINF:-1 tvg-id="studiouniversal" tvg-logo="https://img.teleclub.xyz/studiouniversal.png" group-title="Entretenimiento", Studio Universasl
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/studiouniversal/master.m3u8
+
+#EXTINF:-1 tvg-id="tnt" tvg-logo="https://img.teleclub.xyz/tnt.png" group-title="Entretenimiento", TNT
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/tnt/master.m3u8
+
+#EXTINF:-1 tvg-id="universalcinema" tvg-logo="https://img.teleclub.xyz/universal_cinema.png" group-title="Entretenimiento", Universal Cinema
+http://tv.teleclub.xyz/stream/server_1/entretenimiento/universalcinema/master.m3u8
+
+#EXTINF:-1 tvg-id="htv" tvg-logo="https://img.teleclub.xyz/htv.png" group-title="Musica", HTV
+http://tv.teleclub.xyz/stream/server_1/musica/htv/master.m3u8
+
+#EXTINF:-1 tvg-id="mtv" tvg-logo="https://img.teleclub.xyz/mtv.png" group-title="Musica", mtv
+http://tv.teleclub.xyz/stream/server_1/musica/mtv/master.m3u8
+
+#EXTINF:-1 tvg-id="mtvhits" tvg-logo="https://img.teleclub.xyz/mtvhits.png" group-title="Musica", MTV Hits
+http://tv.teleclub.xyz/stream/server_1/musica/mtvhits/master.m3u8
+
+#EXTINF:-1 tvg-id="musictop" tvg-logo="https://img.teleclub.xyz/musictop.png" group-title="Musica", Music Top
+http://tv.teleclub.xyz/stream/server_1/musica/musictop/master.m3u8
+
+#EXTINF:-1 tvg-id="telehit" tvg-logo="https://img.teleclub.xyz/telehit.png" group-title="Musica", Telehit
+http://tv.teleclub.xyz/stream/server_1/musica/telehit/master.m3u8
+
+#EXTINF:-1 tvg-id="toplatino" tvg-logo="https://img.teleclub.xyz/toplatino.png" group-title="Musica", Top Latino
+http://tv.teleclub.xyz/stream/server_1/musica/toplatino/master.m3u8
